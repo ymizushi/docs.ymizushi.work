@@ -5,50 +5,18 @@ import Helmet from 'react-helmet';
 function SEO({ description, lang, meta, keywords, title }) {
   const defaultKeywords = ['react', 'typescript'];
 
-  const metaDescription = description || 'React and TypeScript: The Unofficial Documentation';
+  const metaDescription = description || 'ymizushiの技術徒然';
 
   return (
-    <Helmet
-      htmlAttributes={{ lang }}
-      title={title}
-      titleTemplate={`%s | React and TypeScript`}
-      meta={[
-        {
-          name: `description`,
-          content: metaDescription,
-        },
-        {
-          property: `og:title`,
-          content: title,
-        },
-        {
-          property: `og:description`,
-          content: metaDescription,
-        },
-        {
-          property: `og:type`,
-          content: `website`,
-        },
-        {
-          name: `twitter:card`,
-          content: `summary`,
-        },
-        {
-          name: `twitter:creator`,
-          content: '@aryanjabbari',
-        },
-      ]
-        .concat({
-          name: `keywords`,
-          content: [...defaultKeywords, ...keywords].join(`, `),
-        })
-        .concat(meta)}
-    />
+    <Helmet>
+      <meta charSet="utf-8" />
+      <title>ymizushiのブログ</title>
+    </Helmet>
   );
 }
 
 SEO.defaultProps = {
-  lang: `en`,
+  lang: `ja`,
   meta: [],
   keywords: [],
   description: ``,

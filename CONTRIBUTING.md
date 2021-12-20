@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for your interest in contributing to the [React And TypeScript](https://www.reactandtypescript.dev/) unoffical documentation. I hope to team up with others to create the premier source of React and TypeScript documentation on the web.
+Thank you for your interest in contributing to the [ymizushiの技術徒然](https://docs.ymizushi.work/) unoffical documentation. I hope to team up with others to create the premier source of React and TypeScript documentation on the web.
 
 ## Creating Issues
 

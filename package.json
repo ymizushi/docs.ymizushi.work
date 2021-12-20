@@ -1,9 +1,10 @@
 {
   "name": "react-and-typescript",
   "private": true,
-  "description": "React and TypeScript: The Unofficial Documentation",
+  "title": "ymizushiの技術徒然",
+  "description": "ymizushiの技術徒然",
   "version": "0.1.0",
-  "author": "Aryan Jabbari <aryanjabbari@gmail.com>",
+  "author": "Yuta Mizushima <mizushi@gmail.com>",
   "scripts": {
     "develop": "docz dev",
     "build": "docz build",
@@ -33,9 +34,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AryanJ-NYC/reactandtypescript.dev"
+    "url": "https://github.com/ymizushi/docs.ymizushi.dev"
   },
   "bugs": {
-    "url": "https://github.com/AryanJ-NYC/reactandtypescript.dev/issues"
+    "url": "https://github.com/ymizushi/docs.ymizushi.dev"
   }
 }
