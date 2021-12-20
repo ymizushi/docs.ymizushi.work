@@ -5,18 +5,17 @@
   "version": "0.1.0",
   "author": "Aryan Jabbari <aryanjabbari@gmail.com>",
   "scripts": {
-    "predevelop": "yarn clean",
     "develop": "docz dev",
-    "prebuild": "yarn clean",
     "build": "docz build",
     "clean": "rimraf ./.docz",
     "format": "prettier --write src/**/*.{js,jsx}",
-    "start": "yarn develop"
+    "start": "npm run develop"
   },
   "dependencies": {
     "axios": "^0.19.0",
     "docz": "^2.0.0",
-    "react-helmet": "^5.2.1"
+    "react-helmet": "^5.2.1",
+    "yarn": "^1.22.17"
   },
   "devDependencies": {
     "prettier": "^1.17.1",
