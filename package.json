@@ -1,5 +1,5 @@
 {
-  "name": " ymizushiの技術徒然",
+  "name": "docs.ymizushi.work",
   "private": false,
   "description": "つれづれなるままに、技術に向かいます",
   "version": "0.1.0",
@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "axios": "^0.19.0",
+    "bindings": "^1.5.0",
     "docz": "^2.0.0",
     "react-helmet": "^5.2.1",
     "yarn": "^1.22.17"
@@ -33,9 +34,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ymizushi/docs.ymizushi.dev"
+    "url": "https://github.com/ymizushi/docs.ymizushi.work"
   },
   "bugs": {
-    "url": "https://github.com/ymizushi/docs.ymizushi.dev"
+    "url": "https://github.com/ymizushi/docs.ymizushi.work"
   }
 }

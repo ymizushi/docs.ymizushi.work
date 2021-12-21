@@ -1,5 +1,8 @@
 export default {
-  menu: ['Home', 'TypeScript Crash Course', 'Installation', 'Examples'],
+  title: "ymizushiの技術徒然",
+  description: "つれづれなるままに、技術に向かいます",
+  ignore: ["README.md", "CONTRIBUTING.md"],
+  menu: ['Home', 'コンピュータアーキテクチャ'],
   themeConfig: {
     colors: { primary: '#294E80' },
   },
