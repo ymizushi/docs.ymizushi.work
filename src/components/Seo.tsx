@@ -5,8 +5,6 @@ import Helmet from 'react-helmet';
 function SEO({ description, lang, meta, keywords, title }) {
   const defaultKeywords = ['react', 'typescript'];
 
-  const metaDescription = description || 'ymizushiの技術徒然';
-
   return (
     <Helmet>
       <meta charSet="utf-8" />

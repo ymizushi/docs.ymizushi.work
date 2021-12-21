@@ -1,8 +1,7 @@
 {
-  "name": "react-and-typescript",
-  "private": true,
-  "title": "ymizushiの技術徒然",
-  "description": "ymizushiの技術徒然",
+  "name": " ymizushiの技術徒然",
+  "private": false,
+  "description": "つれづれなるままに、技術に向かいます",
   "version": "0.1.0",
   "author": "Yuta Mizushima <mizushi@gmail.com>",
   "scripts": {
