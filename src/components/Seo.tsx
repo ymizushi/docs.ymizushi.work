@@ -17,7 +17,7 @@ SEO.defaultProps = {
   lang: `ja`,
   meta: [],
   keywords: [],
-  description: ``,
+  description: `ymizushiの技術徒然`,
 };
 
 SEO.propTypes = {

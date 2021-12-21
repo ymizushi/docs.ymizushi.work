@@ -1,7 +1,7 @@
 {
   "name": "docs.ymizushi.work",
   "private": false,
-  "description": "つれづれなるままに、技術に向かいます",
+  "description": "ymizushiの技術徒然",
   "version": "0.1.0",
   "author": "Yuta Mizushima <mizushi@gmail.com>",
   "scripts": {
@@ -37,6 +37,6 @@
     "url": "https://github.com/ymizushi/docs.ymizushi.work"
   },
   "bugs": {
-    "url": "https://github.com/ymizushi/docs.ymizushi.work"
+    "url": "https://github.com/ymizushi/docs.ymizushi.work/issues"
   }
 }
