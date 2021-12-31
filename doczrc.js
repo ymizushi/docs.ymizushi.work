@@ -2,7 +2,7 @@ export default {
   title: "ymizushiの技術徒然",
   description: "つれづれなるままに、技術に向かいます",
   ignore: ["README.md", "CONTRIBUTING.md"],
-  menu: ['Home', 'コンピュータサイエンス'],
+  menu: ['Home', 'コンピュータの仕組み', 'Scala'],
   themeConfig: {
     colors: { primary: '#294E80' },
   },
