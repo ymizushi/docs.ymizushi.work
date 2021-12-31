@@ -16,9 +16,11 @@
     "bindings": "^1.5.0",
     "docz": "^2.0.0",
     "react-helmet": "^5.2.1",
+    "react-syntax-highlighter": "^15.4.5",
     "yarn": "^1.22.17"
   },
   "devDependencies": {
+    "mdx-deck": "^4.1.1",
     "prettier": "^1.17.1",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
