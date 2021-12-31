@@ -14,11 +14,17 @@ import SyntaxHighlighter from 'react-syntax-highlighter'
   keywords={['scala']}
 />
 
-```javascript
-class Hoge {
-
-}
-
-```
 
 # Scalaでの見慣れない文法一覧
+
+```jsx
+<Button onClick={(e) => {
+  props.dispatch({
+    type:'ADD_TO_CART',
+    payload: {
+      item: "pear",
+      quantity: 3
+    }
+  });
+}}/>
+```
